@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lepaulinux
 - 👀 I’m interested in Linux, docker, Cloud and Cybersecurity.
-- 🌱 I’m currently learning Ansible and Kubernetes
+- 🌱 I’m currently learning Ansible and Python.
 
 
 <!---
