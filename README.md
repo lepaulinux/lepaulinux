@@ -1,6 +1,26 @@
-- 👋 Hi, I’m @lepaulinux
-- 👀 I’m interested in Linux, docker, Cloud and Cybersecurity.
-- 🌱 I’m currently learning Ansible to automate my Linux server and containers.
+👋 Hi, I’m @lepaulinux
+🐧 Linux System Administrator focused on servers, containers, and automation
+⚙️ Proxmox • LXC • Docker • Portainer • Bash
+🌱 Currently learning Ansible for infrastructure automation
+
+Operating Systems
+- Linux (Ubuntu Server, Debian-based, AlmaLinux, RedHat)
+
+Virtualization & Containers
+- Proxmox VE
+- LXC Containers
+- Docker
+- Portainer
+
+Automation & Scripting
+- Bash
+- Ansible
+
+Infrastructure & Tools
+- Linux networking
+- System monitoring & troubleshooting
+- Container lifecycle management
+- Documentation & process standardization
 
 
 <!---
